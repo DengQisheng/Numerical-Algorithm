@@ -1,2 +1,3 @@
-# numerical algorithm
-´æ·ÅÊıÖµËã·¨×÷Òµ¼°ÏîÄ¿
+# Numerical Algorithm
+
+æ•°å€¼ç®—æ³•è¯¾ç¨‹é¡¹ç›®
